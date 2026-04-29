@@ -22,7 +22,7 @@ spring:
 twilio:
   account-sid: ${TWILIO_ACCOUNT_SID:your_account_sid}
   auth-token: ${TWILIO_AUTH_TOKEN:your_auth_token}
-  phone-number: ${TWILIO_PHONE_NUMBER:+1234567890}
+  phone-number: ${TWILIO_PHONE_NUMBER:+8801518983074}
 
 # Application Settings
 app:
