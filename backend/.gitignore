@@ -1,0 +1,8 @@
+/target/
+/.mvn/
+/mvnw
+/mvnw.cmd
+*.class
+*.jar
+*.war
+.env
